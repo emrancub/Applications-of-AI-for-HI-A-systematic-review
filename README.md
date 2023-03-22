@@ -11,9 +11,6 @@ We encourage contributions to our repository by adding additional papers or comm
 Thank you for visiting our repository, and we hope that you find our collection of papers informative and helpful in your research endeavors. If you have any questions or feedback, please feel free to contact us.
 
 Thanks,
-
-Md Emran Hasan
-
-Northeastern University, China
-
-writetoemran@gmail.com
+Md Emran Hasan <br>
+Northeastern University, China <br>
+writetoemran@gmail.com <br>
