@@ -4,9 +4,7 @@ Welcome to the GitHub repository for our research on the applications of artific
 
 Through our analysis of a wide range of papers, we cover topics such as disease diagnosis, medical imaging, and electronic health records. Our goal is to provide a clear and concise understanding of the applications of AI in health informatics to help researchers identify trends and areas for future research. This repository serves as a central hub for the collection of papers we reviewed, providing a convenient resource for researchers interested in exploring this topic.
 
-We believe that this collection of papers will be valuable not only to researchers interested in health informatics but also to anyone interested in the potential of AI in healthcare. The papers we reviewed include both theoretical and applied research, and our aim is to provide a useful resource for researchers seeking to expand their knowledge in this area.
-
-We encourage contributions to our repository by adding additional papers or comments, as we aim to improve and expand our collection. We hope that this repository will serve as a valuable resource for researchers looking to explore the applications of AI in health informatics.
+We believe that this collection of papers will be valuable not only to researchers interested in health informatics but also to anyone interested in the potential of AI in healthcare. The papers we reviewed include both theoretical and applied research, and our aim is to provide a useful resource for researchers seeking to expand their knowledge in this area. We hope that this repository will serve as a valuable resource for researchers looking to explore the applications of AI in health informatics.
 
 Thank you for visiting our repository, and we hope that you find our collection of papers informative and helpful in your research endeavors. If you have any questions or feedback, please feel free to contact us.
 
